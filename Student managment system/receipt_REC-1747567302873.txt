@@ -1,0 +1,25 @@
+======================================
+           OFFICIAL FEE RECEIPT       
+======================================
+
+Receipt Number: REC-1747567302873
+Date: 05/06/2026
+
+Student Information:
+Name: Alice Johnson
+ID: 1
+Roll Number: CS001
+Department: Computer Science
+
+Payment Details:
+------------------
+1. Tuition Fee: $234.00 - PAID (05/06/2026)
+
+Total Amount: $234.00
+Payment Method: 1
+Status: Paid
+
+Issued By: System
+======================================
+Thank you for your payment!
+======================================

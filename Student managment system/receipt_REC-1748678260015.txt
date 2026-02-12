@@ -1,0 +1,25 @@
+======================================
+           OFFICIAL FEE RECEIPT       
+======================================
+
+Receipt Number: REC-1748678260015
+Date: 12/04/2025
+
+Student Information:
+Name: Seid Muhidin
+ID: 1
+Roll Number: CS001
+Department: Computer science
+
+Payment Details:
+------------------
+1. Tuition Fee: $13.00 - PAID (12/04/2025)
+
+Total Amount: $13.00
+Payment Method: 2
+Status: Paid
+
+Issued By: System
+======================================
+Thank you for your payment!
+======================================
